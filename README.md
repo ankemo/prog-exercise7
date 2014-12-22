@@ -1,7 +1,7 @@
 prog-exercise7
 ==============
 The purpose of this R package is the final exercise of the programming ERIM course. The use of the package functions 
-AddTwo and AddFour allow for the addition of the numbers 2 and 4 to any value, array or matrix.
+AddTwo and AddFour allow for the addition of the numbers 2 and 4 to any number, array or matrix.
 
 Versions
 ==============
